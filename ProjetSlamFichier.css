@@ -4,6 +4,7 @@ body{
 	background: linear-gradient(red, black);
 	max-width: max-content;
 	margin: auto;
+	text-align: center;
 }
 
 .ssbu{
