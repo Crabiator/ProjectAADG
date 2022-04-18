@@ -2,7 +2,8 @@ body{
 	color: white;
 	font-family: "Calibri";
 	background: linear-gradient(red, black);
-	vertical-align: middle;
+	max-width: max-content;
+	margin: auto;
 }
 
 .ssbu{
