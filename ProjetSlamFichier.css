@@ -50,6 +50,8 @@ td{
 
 .FighterPass2{
 	text-align: center;
+	min-height: 314px;
+	min-width: 200px;
 }
 
 .TextePass1{
